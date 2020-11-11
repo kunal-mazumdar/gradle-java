@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1570bc62-8651-4e5d-91a8-a7191305b96c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1k5uSeCUJgxDXUCxIdmzB26DTWu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1570bc62-8651-4e5d-91a8-a7191305b96c" name="Default Changelist" comment="" />
+      <created>1605002775332</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605002775332</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="420" y="223" key="FileChooserDialogImpl" timestamp="1605002931397">
+      <screen x="0" y="0" width="1280" height="963" />
+    </state>
+    <state x="420" y="223" key="FileChooserDialogImpl/1280.-46.1536.815/0.0.1280.963@0.0.1280.963" timestamp="1605002931397" />
+    <state x="305" y="180" key="NewModule_or_Project.wizard" timestamp="1605002940206">
+      <screen x="0" y="0" width="1280" height="963" />
+    </state>
+    <state x="305" y="180" key="NewModule_or_Project.wizard/1280.-46.1536.815/0.0.1280.963@0.0.1280.963" timestamp="1605002940206" />
+  </component>
+</project>
