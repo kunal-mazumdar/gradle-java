@@ -1,4 +1,4 @@
 # gradle-java
-A simple java project with gradle
-* Install the latest gradle : https://gradle.org/install/
-* Use "gradle init" for the quick start
+A simple java project with gradle : https://jafarmlp.medium.com/a-simple-java-project-with-gradle-2c323ae0e43d
+
+
