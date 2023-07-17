@@ -6,15 +6,13 @@ package com.example.gradle;
 import java.util.HashMap;
 import java.util.Map;
 
-import org.json.JSONObject;
-
 public class App {
     public String getGreeting() {
         return "Hello World!";
     }
     
-    public JSONObject createJSONObject(Map<String, String> data) {
-        return new JSONObject(data);
+    public String createJSONObject(Map<String, String> data) {
+        return "";
     }
 
     public static void main(String[] args) {
